@@ -11,3 +11,5 @@ redirect_from:
 I'm a first-year PhD student in the Image and Video Computing group at Boston University, where I am fortunate to be advised by Prof. Boqing Gong.
 
 Prior to joining BU, I completed my undergraduate and graduate study at Huazhong University of Science and Technology.
+
+You can find my CV here: [Yuwen's CV](../assets/Curriculum_Vitae.pdf).

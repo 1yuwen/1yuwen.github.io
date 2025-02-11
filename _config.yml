@@ -14,8 +14,8 @@ title                    : "Yuwen Tan / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuwen Tan"
 description              : &description "personal description"
-url                      : https://github.com/1yuwen.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://1yuwen.github.io
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "1yuwen/1yuwen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

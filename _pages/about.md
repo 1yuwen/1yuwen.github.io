@@ -1,5 +1,3 @@
+I'm a first-year PhD student in the Image and Video Computing group at Boston University, where I am fortunate to be advised by Prof. Boqing Gong.
 
-I'm a first-year PhD student at Boston University. My research interests include machine unlearning, continual learning, and multimodality foundation models.
-
-You can find my CV here: [Yuwen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-[Email](mailto:yuwentan@bu.edu)
+Prior to joining BU, I completed my undergraduate and graduate study at Huazhong University of Science and Technology.

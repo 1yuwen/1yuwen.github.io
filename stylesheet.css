@@ -142,70 +142,48 @@ span.highlight {
 }
 
 .experience-logo-cell {
-  padding: 12px 16px;
-  width: 28%;
+  padding: 20px;
+  width: 20%;
   vertical-align: middle;
+  text-align: center;
 }
 
 .experience-details {
-  padding: 12px 8px;
-  width: 72%;
+  padding: 20px;
+  width: 80%;
   vertical-align: middle;
 }
 
-.experience-badge {
-  box-sizing: border-box;
-  width: 150px;
-  min-height: 78px;
-  padding: 14px;
-  border-radius: 12px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 4px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 20px;
-  font-weight: 700;
+.experience-logo {
+  display: block;
+  width: 100%;
+  max-width: 110px;
+  max-height: 72px;
+  margin: 0 auto;
+  object-fit: contain;
 }
 
-.experience-badge small {
-  font-size: 12px;
-  font-weight: 400;
-}
-
-.google-badge {
-  color: #1a73e8;
-  background: #ffffff;
-  border: 1px solid #dadce0;
-  box-shadow: 0 1px 3px rgba(60, 64, 67, 0.18);
-}
-
-.google-badge small {
-  color: #5f6368;
-}
-
-.pixocial-badge {
-  color: #ffffff;
-  background: #151515;
+.pixocial-logo {
+  max-width: 72px;
 }
 
 @media (max-width: 600px) {
   .experience-logo-cell {
-    width: 34%;
-    padding: 10px 6px;
+    width: 28%;
+    padding: 12px 6px;
   }
 
   .experience-details {
-    width: 66%;
-    padding: 10px 6px;
+    width: 72%;
+    padding: 12px 6px;
   }
 
-  .experience-badge {
-    width: 100%;
-    min-height: 68px;
-    padding: 10px 6px;
-    font-size: 16px;
+  .experience-logo {
+    max-width: 88px;
+    max-height: 60px;
+  }
+
+  .pixocial-logo {
+    max-width: 60px;
   }
 }
